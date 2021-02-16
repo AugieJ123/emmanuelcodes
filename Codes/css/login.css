@@ -1,0 +1,48 @@
+body, html{
+    height: fit-content;
+}
+
+.bg-img{
+    background-image: url(../images/background.png);
+    height: 800px;
+    min-height: 380px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.container-box{
+    padding-top: 100px;
+    position: absolute;
+    right: 0;
+    margin: 20px;
+    max-width: 400px;
+    height: 500px;
+    padding-top: 40px;
+    background-color: white;
+    margin-bottom: 50px;
+}
+
+#button{
+    background-color: #0C2E07;
+}
+
+#remember{
+    padding-left: 50px;
+}
+
+.left{
+    padding-left: 20px;
+    padding-right: 40px;
+    left: 20px;
+}
+
+.left-edge{
+    margin-right: 40px;
+}
+
+.text{
+    padding-right: 45px;
+    color: #E9B91C;
+}
