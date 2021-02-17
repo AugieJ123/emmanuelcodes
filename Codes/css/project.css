@@ -1,0 +1,18 @@
+.card1 img{
+    height: 100px;
+}
+
+.card-body a:hover{
+    color:black;
+    text-decoration-style: none;
+}
+
+.card-body a{
+    color:black;
+    text-decoration-style: none;
+}
+
+.img1 img{
+    width:10px;
+    padding-right: 30px;
+}
